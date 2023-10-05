@@ -13,7 +13,7 @@ This webpage is for Horiseon Social Solutions Services and is part of a weekly c
 
 ## Usage
 
-To use this website you can follow this link: 
+To use this website you can follow this link: https://jarede712.github.io/Horiseon-Marketing/
 
 ## Credits
 
