@@ -7,9 +7,9 @@ This webpage is for Horiseon Social Solutions Services and is part of a weekly c
 
 ## Screenshots
 
-![Horiseon Screenshot 1](../Develop/assets/images/Horiseon%20Marketing%20Screenshot%201.jpg?raw=true)
+![Horiseon Screenshot 1](../Develop/assets/images/Horiseon%20Marketing%20Screenshot%201.jpg)
 
-![Horiseon Screenshot 2](../Develop/assets/images/Horiseon%20Marketing%20Screenshot%202.jpg?raw=true)
+![Horiseon Screenshot 2](../Develop/assets/images/Horiseon%20Marketing%20Screenshot%202.jpg)
 
 ## Usage
 
