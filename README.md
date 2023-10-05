@@ -6,12 +6,10 @@ This webpage is for Horiseon Social Solutions Services and is part of a weekly c
 
 
 ## Screenshots
-Develop/assets/images/Horiseon Marketing Screenshot 1.jpg
 
-![Horiseon Screenshot 1](../Develop/assets/images/Horiseon%20Marketing%20Screenshot%201.jpg?raw=true "Navigation Bar and Main Image on Horiseon Website")
+![Horiseon Screenshot 1](../Develop/assets/images/Horiseon%20Marketing%20Screenshot%201.jpg?raw=true)
 
-![Horiseon Screenshot 2](../Develop/assets/images/Horiseon%20Marketing%20Screenshot%202.jpg "Main Content of Horiseon Marketing Website")
-
+![Horiseon Screenshot 2](../Develop/assets/images/Horiseon%20Marketing%20Screenshot%202.jpg?raw=true)
 
 ## Usage
 
